@@ -1,0 +1,9 @@
+# Tema terang dikunci: latar krem dashboard diatur di app.py, sehingga mode gelap akan membuat teks sulit dibaca.
+[theme]
+base = "light"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false

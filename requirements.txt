@@ -1,0 +1,7 @@
+streamlit==1.64.0
+folium==0.20.0
+streamlit-folium==0.27.4
+shapely==2.1.2
+pandas==3.0.3
+altair==6.3.0
+branca==0.8.2
